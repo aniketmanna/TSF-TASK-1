@@ -11,15 +11,6 @@ BASIC BANKING SYSTEM
               > Select customer to transfer to >View all Customers.
     4. This website is only for transfer of money between multiple users.
 
-The website hosted at 000webhost 👍👍👍
-  
-    https://basictsfsystem-bhavjot.000webhostapp.com/
-    
-The Working Video is also available on Youtube 👍👍👍
-
-    https://youtu.be/1_C53neNQHo
-    
-# Tech Stacks 👍 :-
   Front End:- 
         
         > HTML
